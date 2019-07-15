@@ -8,7 +8,7 @@ And all there is to see.
 
 To see the rainbow you need rain.
 To get rain you need clouds.
-(CuriousBlue)
+(CuriousClue)
 
 
 This is going to be really crazy as it is my first pull request . I don't know what I am writing---Haha!!!!!!
